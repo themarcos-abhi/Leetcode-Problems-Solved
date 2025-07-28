@@ -1,4 +1,4 @@
-class Solution {
+class twosum {
     public int[] twoSum(int[] nums, int target) {
         java.util.HashMap<Integer, Integer> map = new java.util.HashMap<>();
         for (int i = 0; i < nums.length; i++) {
